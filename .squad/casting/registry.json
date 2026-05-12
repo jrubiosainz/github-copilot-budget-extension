@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "agents": [
+    { "persistent_name": "Ripley", "role": "Lead", "universe": "Alien", "created_at": "2026-05-12", "legacy_named": false, "status": "active" },
+    { "persistent_name": "Hicks", "role": "Packager", "universe": "Alien", "created_at": "2026-05-12", "legacy_named": false, "status": "active" },
+    { "persistent_name": "Bishop", "role": "DevRel/Docs", "universe": "Alien", "created_at": "2026-05-12", "legacy_named": false, "status": "active" },
+    { "persistent_name": "Vasquez", "role": "Tester", "universe": "Alien", "created_at": "2026-05-12", "legacy_named": false, "status": "active" }
+  ]
+}

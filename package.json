@@ -1,0 +1,36 @@
+{
+  "name": "squad-budget",
+  "version": "0.1.0",
+  "description": "Premium-request budget guard for GitHub Copilot CLI Squad sessions. Local dashboard + per-agent live consumption + autopilot kill-switch when the budget is hit.",
+  "type": "module",
+  "main": "src/extension.mjs",
+  "files": [
+    "src/",
+    "scripts/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "install:ext": "node scripts/install.mjs",
+    "uninstall:ext": "node scripts/uninstall.mjs"
+  },
+  "dependencies": {
+    "@github/copilot-sdk": "*"
+  },
+  "keywords": [
+    "github-copilot",
+    "copilot-cli",
+    "extension",
+    "budget",
+    "squad"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrubiosainz/github-copilot-budget-extension"
+  },
+  "homepage": "https://github.com/jrubiosainz/github-copilot-budget-extension#readme"
+}
