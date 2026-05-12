@@ -34,6 +34,14 @@ Stop runaway autopilot loops from burning your premium requests. **squad-budget*
 └─────────────────────────────────────────────────────────┘
 ```
 
+### Screenshots
+
+![squad-budget dashboard](images/Squad-budget.png)
+
+![squad-budget dashboard — view 2](images/squad-budget-2.png)
+
+![squad-budget dashboard — view 3](images/squad-budget-3.png)
+
 ## Requirements
 
 - **Node.js 20+**
